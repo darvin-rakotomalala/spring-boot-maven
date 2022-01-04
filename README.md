@@ -45,6 +45,6 @@ Maven est un sujet énorme, et cette brève introduction était uniquement desti
 alors assurez-vous de consulter les ressources officiel pour plus d'informations sur la façon de l'utiliser réellement.
 <br/>
 **Ressources** : 
-* (http://maven.apache.org/)[http://maven.apache.org/]
-* (http://en.wikipedia.org/wiki/Apache_Maven)[http://en.wikipedia.org/wiki/Apache_Maven]
-* (http://docs.codehaus.org/display/MAVENUSER/The+Maven+2+tutorial)[http://docs.codehaus.org/display/MAVENUSER/The+Maven+2+tutorial]
+* http://maven.apache.org/
+* http://en.wikipedia.org/wiki/Apache_Maven
+* http://docs.codehaus.org/display/MAVENUSER/The+Maven+2+tutorial
